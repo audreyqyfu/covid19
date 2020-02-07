@@ -1,4 +1,4 @@
-Date	Day	Cases	Deaths	Recovered	Severe	CloseContact	UnderObservation	NoLongerObserved
+Date	Day	Cases	Deaths	Recovered	Severe	CloseContact	UnderObservation	NoLongerObserved	InHospital
 20200119	19	198	3	NA	NA	NA	NA	NA
 20200120	20	270	6	NA	NA	NA	NA	NA
 20200121	21	375	9	NA	102	NA	NA	NA
@@ -17,3 +17,4 @@ Date	Day	Cases	Deaths	Recovered	Severe	CloseContact	UnderObservation	NoLongerObs
 20200203	34	13522	414	396	2143	68988	58544	10444
 20200204	35	16678	479	520	2520	81039	66764	14275
 20200205	36	19665	549	633	3084	90997	64127	26870
+20200206	37	22112	618	817	4002	101599	64057	37542	15804
