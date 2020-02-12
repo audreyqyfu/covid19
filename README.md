@@ -1,5 +1,5 @@
-# Wuhan New Coronavirus Outbreak Data and Analysis
-Wuhan new coronavirus outbreak has become a global health emergency.  This repo shares statistics of this outbreak in mainland China.  Data are extracted from daily briefings of China's National Health Commission (http://www.nhc.gov.cn/yjb/pqt/new_list.shtml), Hubei Province Health Commission (through real-time updates via https://news.163.com/), and Wuhan Health Commission (http://www.nhc.gov.cn/yjb/pqt/new_list.shtml).  Counts for each day are cumulative or daily counts at 24:00 of that day (Beijing time).  A summary of the analysis is at https://twitter.com/audreyqyfu/status/1224078188839497728.
+# Covid-19 Outbreak Data and Analysis
+The Covid-19 outbreak has become a global health emergency.  This repo shares statistics of this outbreak in mainland China.  Data are extracted from daily briefings of China's National Health Commission (http://www.nhc.gov.cn/yjb/pqt/new_list.shtml), Hubei Province Health Commission (http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/), and Wuhan Health Commission (http://www.nhc.gov.cn/yjb/pqt/new_list.shtml).  Counts for each day are cumulative or daily counts at 24:00 of that day (Beijing time).  A summary of the analysis is at https://twitter.com/audreyqyfu/status/1224078188839497728.
 
 Data files are updated daily.  Counts in Wuhan before Jan 16, 2020 are unreliable.
 
